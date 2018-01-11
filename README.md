@@ -1,2 +1,2 @@
-Learn more about Azure Cognitive Services here:
+Get API key here:
 https://azure.microsoft.com/en-us/services/cognitive-services/
